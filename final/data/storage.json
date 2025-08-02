@@ -1,0 +1,16 @@
+{
+    "users": {
+        "Geethika": {
+            "password": "$2b$12$rD4.XBS1ePbq55kK8hYCwOsAFjPhOgS7wVYKTQXMRqF.qwFmCqJOy",
+            "narrations": [
+                "Hello world whats up..."
+            ],
+            "reviews": [
+                {
+                    "review": "Its good but needs improvement.",
+                    "timestamp": "2025-08-02 12:09"
+                }
+            ]
+        }
+    }
+}
